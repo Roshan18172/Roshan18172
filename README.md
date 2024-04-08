@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+  <head>
+    <title>
+      1st web page
+    </title>
+    <style>
+
+      
+    </style>
+  </head>
+  <body>
+    <h1 id="head">submit</h1>
+  </body>
+</html>
