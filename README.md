@@ -20,7 +20,10 @@ Here are some ideas to get you started:
       1st web page
     </title>
     <style>
-
+    .h1{
+      background-color:red;
+      border:2px;
+    }
       
     </style>
   </head>
